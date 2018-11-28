@@ -1,3 +1,3 @@
 export default () => (
-  <div>About us</div>
+  <div>About us<Link href='/'><a>Home</a></div>
 )
